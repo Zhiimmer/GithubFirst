@@ -1,5 +1,10 @@
 body{
     background: black;
     color: white;
+    padding: 50px; 
+}
 
+h2{
+    text-align: center;
+    color: cadetblue;
 }
